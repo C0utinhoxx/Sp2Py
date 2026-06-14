@@ -73,4 +73,4 @@ with col_v2:
     )
 
 st.markdown("---")
-st.caption("ChargeGrid Intelligence Prova de Conceito v2.0 - Desenvolvido para a FIAP / GoodWe Challenge 2026.")
+st.caption("ChargeGrid Intelligence - Prova de Conceito v2.1 - Desenvolvido para a FIAP / GoodWe Challenge 2026.")
