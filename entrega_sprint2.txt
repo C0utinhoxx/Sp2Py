@@ -11,7 +11,7 @@ Gustavo Fondato de Souza - RM 573651
 Gustavo Martins da Silva - RM 570584
 
 Link do vídeo no YouTube:
-[INSERIR LINK DO VÍDEO NÃO LISTADO]
+https://www.youtube.com/watch?v=z-qGkX97KE0
 
 Link do repositório GitHub:
 https://github.com/C0utinhoxx/Sp2Py
